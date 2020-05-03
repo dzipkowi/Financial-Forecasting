@@ -20,3 +20,8 @@ What benefits are realized from incorporating Machine Learning into the FP&A pro
 * [Use case identified at the end of 2018 by FPA-trends.com](https://fpa-trends.com/article/artificial-intelligence-machine-learning-fpa-time-has-come)
 * [Financial Forecasting @ Uber](https://eng.uber.com/transforming-financial-forecasting-machine-learning/)
 * [Benefits of Leveraging ML in FP&A](https://scholar.harvard.edu/linh/financial-forecasting-using-machine-learning)
+
+# View the Notebooks
+* Introducing Financial Time Series 
+* Exploring Historical Financial Time Series 
+* Forecasting Future Financial Time Series 
