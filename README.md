@@ -22,6 +22,5 @@ What benefits are realized from incorporating Machine Learning into the FP&A pro
 * [Benefits of Leveraging ML in FP&A](https://scholar.harvard.edu/linh/financial-forecasting-using-machine-learning)
 
 # View the Notebooks
-* Introducing Financial Time Series 
-* Exploring Historical Financial Time Series 
-* Forecasting Future Financial Time Series 
+* [Exploratory Analysis](https://colab.research.google.com/drive/1eT3OE2lK8XUQ1d8VRih0TbEgXAsrhNvf?usp=sharing)
+* Forecasting with Prophet
