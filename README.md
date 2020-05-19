@@ -24,3 +24,7 @@ What benefits are realized from incorporating Machine Learning into the FP&A pro
 # View the Notebooks
 * [Exploratory Analysis](https://colab.research.google.com/drive/1eT3OE2lK8XUQ1d8VRih0TbEgXAsrhNvf?usp=sharing)
 * Forecasting with Prophet
+
+### *Data Selection Note*
+* Selected Energy Consumption Dataset because it mimicks sales data given the daily recordings, seasonality, and trends. 
+* We can apply this framework in the same way to Financial Datasets
