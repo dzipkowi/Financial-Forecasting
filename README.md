@@ -6,7 +6,7 @@
   
 # Value Proposition
 
-Why should business analysts be excited about Prophet and Machine Learning? 
+Why should business analysts be excited about Prophet? 
 1. With an out of the box ability to graph seasonality and trends, Prophet can enable analysts to quickly understand the time-based drivers of their business [e.g. monthly trends]
 2. *Understanding the drivers of KPIs*
     * Modeling the relationship of different variables and how they affect a KPI [such as # of users driving revenue] can help determine the future actions related to those variables. 
